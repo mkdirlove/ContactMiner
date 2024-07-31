@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/images/icon.png" width="30%" />
-  <h1 align="center">Contact Miner</h1>
+  <h1 align="center">Contact Miner (Under Development)</h1>
   <h3>Yet another user-friendly and lightweight tool for monitoring contacts and call logs on Android devices.</h3>
   <h4>This software is exclusively designed for educational purposes ⚠️</h4>
 </div>
